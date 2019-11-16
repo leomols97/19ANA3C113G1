@@ -1,0 +1,44 @@
+Classe BacklogProduct
+Classe UserStory
+	Sujet
+	Description
+	Priorité
+	Compétences
+
+Classe Sprint
+	Date de début
+	Date de fin
+
+
+Classe Tache (crée si une US est dans un sprint)
+	Description
+	Temps estimé.
+	Statut
+
+Classe Modification
+	Date de modif.
+
+Classe Issue
+	Description du problème et résolution.
+
+
+ENUM Compétence :  A B C D.
+	
+ENUM Priorité : Ultra Low, Low, Medium, High, Indispensable
+
+ENUM Statut : TODO WIP READY TEST DEMO
+
+
+Question au groupe :
+Quelqu'un a t-il une meilleure idée pour la découpage ses usersStory ?
+
+Hypothèse :
+Seul le P.O. crée des UserStory
+Le P.O. peut modifier des UserStory.
+Un développeur peut également modifier des UserStory, s'il est assigné à cette dernière. 
+En plus, toute modification qu'il fera sera enregistrée.
+
+Notes diverses :
+Tache est une association car il y a des tâches crées que si une US est dans un sprint.
+Modif et Issue sont des classes appart entière car il est plus intéréssant de les avoir indépendants 
+que créées par l'association de DEV et Tache/US.

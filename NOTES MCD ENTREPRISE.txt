@@ -10,6 +10,10 @@ Classe Membre.
 	Pseudo (null).
 	Image (Une par défault).
 	Sexe.
+
+Une classe par Role.
+
+
 Classe Absence.
 	DateDébut
 	DateFin
@@ -18,7 +22,6 @@ Classe Absence.
 Classe Date
 
 Enum CauseAbsence : Vacances - Maladie - Travail - FM 	
-Enum Role : P.O.- Developpeur - promoteur - S.M.
 Enum Sexe : Feminin - Masculin
 
 Justifications Diverses	:
@@ -29,11 +32,15 @@ Membre 0 * à 1 Equipe :
 Lors de la création d'une équipe, pas besoin d'avoir un membre directement ajouté !
 
 Role :
-Plus simple de s'y retrouver avec une Enum que plusieurs classes en héritage. Pas d'attributs Spécifiques.
+Pourquoi j'ai fait une classe par Role ? 
+Etant donné l'importance que possède le role pour la suite des MCD, j'ai trouvé bien plus clair pour nous de séparer en plusieurs classes héritées de Membre, même si aucun attribut n'est rajouté.
 
 
 Questions au groupe :
 ID si jamais 2 équipiers ont le même nom ?
 Pseudo Unique ?
 Absence peut elle avoir plusieurs Membres ? (Jour fériés etc...)
+
+Hypothèse :
+Le ScrumMaster est uniquement ScrumMaster.
 
