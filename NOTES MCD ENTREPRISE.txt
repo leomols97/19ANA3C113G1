@@ -1,0 +1,39 @@
+Une Equipe : plusieurs Membres
+On peut supprimer, ajouter, modifier
+
+
+MCD :
+Classe Equipe.
+Classe Membre.
+	Nom
+	Prénom.
+	Pseudo (null).
+	Image (Une par défault).
+	Sexe.
+Classe Absence.
+	DateDébut
+	DateFin
+	CauseAbsence.
+	
+Classe Date
+
+Enum CauseAbsence : Vacances - Maladie - Travail - FM 	
+Enum Role : P.O.- Developpeur - promoteur - S.M.
+Enum Sexe : Feminin - Masculin
+
+Justifications Diverses	:
+
+Equipiers :
+
+Membre 0 * à 1 Equipe :
+Lors de la création d'une équipe, pas besoin d'avoir un membre directement ajouté !
+
+Role :
+Plus simple de s'y retrouver avec une Enum que plusieurs classes en héritage. Pas d'attributs Spécifiques.
+
+
+Questions au groupe :
+ID si jamais 2 équipiers ont le même nom ?
+Pseudo Unique ?
+Absence peut elle avoir plusieurs Membres ? (Jour fériés etc...)
+
