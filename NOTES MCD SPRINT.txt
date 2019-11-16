@@ -1,0 +1,2 @@
+J'ai modifié ma classe Tache, en lui supprimant son statut, représente par la colonne où cette tache se trouve.
+Evidemment création de la classe Colonne.
