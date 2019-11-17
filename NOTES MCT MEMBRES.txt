@@ -1,0 +1,20 @@
+MCT DES MEMBRES
+
+HYPOTHESE :
+Un administrateur est nommé dans l'équipe.
+Celui ci se crée un compte d'administrateur.
+Seul celui-ci peut créer des membres et les supprimer.
+
+C'est lui et lui seul qui encode au départ, le nom et le prénom 
+ainsi que le pseudonyme, ainsi qu'une adresse mail.
+Le système génèrera un avatar directement dès qu'un compte est créé.
+
+L'administrateur peut aussi modifier le compte, mais un membre aussi.
+Eux deux peuvent donc changer l'avatar d'un compte, 
+modifier nom, prénom et pseudonyme et s'assigner un et un seul role.
+
+Eux donc peuvent aussi signaler leurs absences.
+
+
+
+
