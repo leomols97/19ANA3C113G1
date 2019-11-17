@@ -16,5 +16,15 @@ modifier nom, prénom et pseudonyme et s'assigner un et un seul role.
 Eux donc peuvent aussi signaler leurs absences.
 
 
+NOTES ET HYPOTHESES :
+
+Comme seul l'admin peut créer un compte, dès qu'il en crée un, 
+un mail est envoyé à l'email de l'utilisateur pour qu'il confirme son compte
+et mette un mot de passe pour se connecter.
+L'inscription se fait avec un mot de passe
+
+--> Peut on supprimer le mot de passe  ? à envisager si petit entreprise et que tout le monde se fait confiance.
+
+
 
 
