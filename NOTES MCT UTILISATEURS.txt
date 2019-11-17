@@ -1,0 +1,13 @@
+
+ADMIN peut :
+
+crée un compte d'administrateur. FAIT
+crée un compte membre FAIT
+
+
+L'administrateur peut aussi modifier le compte, mais un membre aussi. FAIT
+
+Eux deux peuvent donc changer l'avatar d'un compte (partie de modifier)
+Modifier nom, prénom et pseudonyme et s'assigner un et un seul role. (partie de modifier)
+
+Eux donc peuvent aussi signaler leurs absences.

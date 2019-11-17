@@ -1,0 +1,8 @@
+HYPOTHESE :
+Tout le monde peut créer une UC.
+
+NOTE :
+Il faudrait peut être préciser la notion de collaborateur. ( en la remplacant par membre )
+
+J'ai créé un usecase notifications pour décharger le UC sprint.
+NB : Y sont toutes les interactions avec un serveur Mail / serveur notifs.
