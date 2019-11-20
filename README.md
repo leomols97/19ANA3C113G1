@@ -1,8 +1,7 @@
 a) Convention des noms des fichiers:
-	"nom de la partie"-date-description
+	"nom de la partie"-description
 	
 	Nom de la partie: MCD, MCT, UC, ...
-	Date: jour_mois
 	Description: courte, facultative
 
 
