@@ -862,9 +862,9 @@
 												"$ref": "AAAAAAFuc1AvK7ggzbg="
 											},
 											"font": "Arial;13;0",
-											"left": 261,
+											"left": 260,
 											"top": 140,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": -0.5235987755982988,
 											"distance": 25,
@@ -2217,9 +2217,9 @@
 												"$ref": "AAAAAAFuc2FA6sAggjc="
 											},
 											"font": "Arial;13;0",
-											"left": 678,
+											"left": 677,
 											"top": 294,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": 0.5235987755982988,
 											"distance": 25,
@@ -2608,9 +2608,9 @@
 												"$ref": "AAAAAAFuc2eeR8a9xkQ="
 											},
 											"font": "Arial;13;0",
-											"left": 719,
+											"left": 718,
 											"top": 141,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": -0.5235987755982988,
 											"distance": 25,
@@ -2618,7 +2618,7 @@
 												"$ref": "AAAAAAFuc2eeR8bAZxs="
 											},
 											"edgePosition": 2,
-											"text": "0..*"
+											"text": "1"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2670,16 +2670,16 @@
 												"$ref": "AAAAAAFuc2eeR8a+DX8="
 											},
 											"font": "Arial;13;0",
-											"left": 745,
-											"top": 266,
-											"width": 7.22998046875,
+											"left": 728,
+											"top": 255,
+											"width": 19.5126953125,
 											"height": 13,
-											"alpha": 0.5235987755982988,
-											"distance": 25,
+											"alpha": 0.35850339074852133,
+											"distance": 39.81205847478876,
 											"hostEdge": {
 												"$ref": "AAAAAAFuc2eeR8bAZxs="
 											},
-											"text": "1"
+											"text": "0..*"
 										},
 										{
 											"_type": "UMLQualifierCompartmentView",
@@ -2880,9 +2880,9 @@
 												"$ref": "AAAAAAFuc2fUJcdoKHE="
 											},
 											"font": "Arial;13;0",
-											"left": 816,
+											"left": 815,
 											"top": 152,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": -0.5235987755982988,
 											"distance": 25,
@@ -2890,7 +2890,7 @@
 												"$ref": "AAAAAAFuc2fUJcdrTCA="
 											},
 											"edgePosition": 2,
-											"text": "0..*"
+											"text": "1"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2942,16 +2942,16 @@
 												"$ref": "AAAAAAFuc2fUJcdpQFk="
 											},
 											"font": "Arial;13;0",
-											"left": 827,
-											"top": 248,
-											"width": 7.22998046875,
+											"left": 856,
+											"top": 256,
+											"width": 19.5126953125,
 											"height": 13,
-											"alpha": 0.5235987755982988,
-											"distance": 25,
+											"alpha": -0.4418997974567592,
+											"distance": 42.5440947723653,
 											"hostEdge": {
 												"$ref": "AAAAAAFuc2fUJcdrTCA="
 											},
-											"text": "1"
+											"text": "0..*"
 										},
 										{
 											"_type": "UMLQualifierCompartmentView",
@@ -4207,7 +4207,7 @@
 										"reference": {
 											"$ref": "AAAAAAFuc1xXLbzEAuw="
 										},
-										"multiplicity": "0..*"
+										"multiplicity": "1"
 									},
 									"end2": {
 										"_type": "UMLAssociationEnd",
@@ -4218,7 +4218,7 @@
 										"reference": {
 											"$ref": "AAAAAAFuc1x29r0WAfc="
 										},
-										"multiplicity": "1"
+										"multiplicity": "0..*"
 									},
 									"visibility": "private"
 								},
@@ -4238,7 +4238,7 @@
 										"reference": {
 											"$ref": "AAAAAAFuc1xXLbzEAuw="
 										},
-										"multiplicity": "0..*"
+										"multiplicity": "1"
 									},
 									"end2": {
 										"_type": "UMLAssociationEnd",
@@ -4249,7 +4249,7 @@
 										"reference": {
 											"$ref": "AAAAAAFuc1x29r0WAfc="
 										},
-										"multiplicity": "1"
+										"multiplicity": "0..*"
 									},
 									"visibility": "private"
 								}
