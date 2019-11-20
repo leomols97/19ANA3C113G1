@@ -1,7 +1,27 @@
 a) Convention des noms des fichiers:
-	"nom de la partie"-description
+	"nom de la partie"-date-description
 	
-	Nom de la partie: MCT, UC, ...
+	Nom de la partie: MCD, MCT, UC, ...
+	Date: jour_mois
+	Description: courte, facultative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 QUESTIONS-REPONSES Projet KANBAN :
 
