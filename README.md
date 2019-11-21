@@ -12,3 +12,12 @@ QUESTIONS-REPONSES Projet KANBAN :
 3. Qu’est-ce que "TimeLog" (sur l’image, dans l’énoncé) ? 
 4. Doit-il y avoir des vues différentes pour chaque utilisateur (ex : un membre ne peut pas modifier ce qu’un autre a fait) ?
 5. Dans l’énoncé, le MCD et le MCT doivent se faire sur une branche personnelle. Finalement, sommes-nous obligés de créer des branches dans GitLab ?
+
+
+Un membre garde le MÊME RÔLE à travers les différents SPRINTS
+
+1. Oui : dans le MCT, mais seulnt au niveau technique.
+2. 
+3. 
+4. Oui
+5. Non, mais on peut
