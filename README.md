@@ -24,7 +24,7 @@ Chacun doit au moins en prendre 1, 2 c'est l'idéal
 
 Listes des UC pris :
 
-GUILLAUME : 203 - 302 - 503
+GUILLAUME : 203 - 302 
 LEOPOLD :
 QUENTIN :
 
