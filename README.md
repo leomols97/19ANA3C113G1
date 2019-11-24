@@ -1,42 +1,31 @@
 a) Convention des noms des fichiers:
 	"nom de la partie"-description
 	
-	Nom de la partie: MCD, MCT, UC, ...
-	Description: courte, facultative
+	Nom de la partie: MCT, UC, ...
+	
+	
+b) SEMAINE 2 DIAGRAMMES d'ACTIVITE :
 
+Voici les différents diagrammes que je trouve intéréssants à faire : 
 
+UC 101
 
+UC 201 - 202 - 203
 
+UC 302 - 303 - 304 
 
+UC 401 - 402 - 403 - 404 
 
+UC 502 - 503
 
+Parmi ces 10 UseCases certains sont INDISPENSABLES A FAIRE  tels que le 401 - 404 - 203 - 302 - 303 .
 
+Chacun doit au moins en prendre 2, 3 c'est l'idéal et en priorité ceux indispensables.
 
+Listes des UC pris :
 
+GUILLAUME : 203 - 302 - 503
+LEOPOLD :
+QUENTIN :
 
-
-
-
-
-
-
-
-
-QUESTIONS-REPONSES Projet KANBAN :
-
-14 novembre 2019 :
-
-1. Doit-on prévoir quoi que ce soit pour l’interface ?
-2. Les petits détails ()comme "A, B + 2") doivent-ils exactement se montrer ainsi ou peut-être ainsi : "A, B, C, D" ?
-3. Qu’est-ce que "TimeLog" (sur l’image, dans l’énoncé) ? 
-4. Doit-il y avoir des vues différentes pour chaque utilisateur (ex : un membre ne peut pas modifier ce qu’un autre a fait) ?
-5. Dans l’énoncé, le MCD et le MCT doivent se faire sur une branche personnelle. Finalement, sommes-nous obligés de créer des branches dans GitLab ?
-
-
-Un membre garde le MÊME RÔLE à travers les différents SPRINTS
-
-1. Oui : dans le MCT, mais seulnt au niveau technique.
-2. 
-3. 
-4. Oui
-5. Non, mais on peut
+(apparté doc : Quentin m'avait dit qu'il ferait une grosse partie de la doc donc si on pouvait aussi se concerter là dessus histoire que ça soit fait)
