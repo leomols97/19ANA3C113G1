@@ -18,9 +18,9 @@ UC 401 - 402 - 403 - 404
 
 UC 502 - 503
 
-Parmi ces 10 UseCases certains sont INDISPENSABLES A FAIRE  tels que le 401 - 404 - 203 - 302 - 303 .
+Parmi ces 10 UseCases certains sont INDISPENSABLES A FAIRE avnt d'en prendre d'autres tels que le 401 - 404 - 203 - 302 - 303 .
 
-Chacun doit au moins en prendre 2, 3 c'est l'idéal et en priorité ceux indispensables.
+Chacun doit au moins en prendre 1, 2 c'est l'idéal
 
 Listes des UC pris :
 
