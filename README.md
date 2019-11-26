@@ -26,6 +26,8 @@ Listes des UC pris :
 
 GUILLAUME : 203 - 302 
 LEOPOLD :
-QUENTIN :
+QUENTIN : 401 - 404
+
+On se concerte demain pour faire encore un dernier diagramme d'activité ? Quentin
 
 (apparté doc : Quentin m'avait dit qu'il ferait une grosse partie de la doc donc si on pouvait aussi se concerter là dessus histoire que ça soit fait)
