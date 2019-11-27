@@ -25,7 +25,7 @@ Chacun doit au moins en prendre 1, 2 c'est l'idéal
 Listes des UC pris :
 
 GUILLAUME : 203 - 302 
-LEOPOLD :
+LEOPOLD : 101 - 403 - (404)
 QUENTIN : 401 - 404
 
 On se concerte demain pour faire encore un dernier diagramme d'activité ? Quentin
