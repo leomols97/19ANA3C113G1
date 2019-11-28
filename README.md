@@ -1,4 +1,4 @@
-MODIFIE LE FICHIER EN CE MOMENT : PERSONNE
+MODIFIE LE FICHIER EN CE MOMENT : GUILLAUME
 
 a) Convention des noms des fichiers:
 	"nom de la partie"-description
