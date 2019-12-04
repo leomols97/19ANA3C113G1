@@ -8879,9 +8879,9 @@
 												"$ref": "AAAAAAFuiAk0MRwaumg="
 											},
 											"font": "Arial;13;0",
-											"left": 440,
+											"left": 439,
 											"top": 288,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": -0.9629942992730132,
 											"distance": 28.0178514522438,
@@ -8941,9 +8941,9 @@
 												"$ref": "AAAAAAFuiAk0MRwbrlY="
 											},
 											"font": "Arial;13;0",
-											"left": 385,
+											"left": 384,
 											"top": 232,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": 0.7853983906702271,
 											"distance": 31.11269837220809,
@@ -9415,9 +9415,9 @@
 												"$ref": "AAAAAAFuc724hpF2kBs="
 											},
 											"font": "Arial;13;0",
-											"left": 664,
+											"left": 663,
 											"top": 537,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": -0.5235987755982988,
 											"distance": 25,
@@ -9477,9 +9477,9 @@
 												"$ref": "AAAAAAFuc724hpF3kWw="
 											},
 											"font": "Arial;13;0",
-											"left": 1078,
+											"left": 1077,
 											"top": 287,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": 0.5235987755982988,
 											"distance": 25,
@@ -9749,9 +9749,9 @@
 												"$ref": "AAAAAAFuiBhxu0sfvUM="
 											},
 											"font": "Arial;13;0",
-											"left": 1056,
+											"left": 1055,
 											"top": 622,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": 0.5235987755982988,
 											"distance": 25,
@@ -9959,9 +9959,9 @@
 												"$ref": "AAAAAAFuiXaaxOkxpwU="
 											},
 											"font": "Arial;13;0",
-											"left": 544,
+											"left": 543,
 											"top": 439,
-											"width": 19.5126953125,
+											"width": 20,
 											"height": 13,
 											"alpha": 0.8465060665147626,
 											"distance": 30.479501308256342,
@@ -16336,6 +16336,40 @@
 													"documentation": "# Tests élémentaires fonctionnels\n\n# Scénarios\n\n## Scénario 1\nSans erreur (1-2-3-4-5-7-8)\n\n1. Cas 1 : les données de la modification sont correctes\n\t- Résultats attendus : le membre est affiché; les modifications sont encodées; les modifications sont enregistrées; un message de confirmation est affiché\n\n## Scénario 2\nErreur dans les données (1-2-3-4-5-6-2...)\n\n1. Cas 1 : les données de la modification sont incorrectes\n\t- Résultats attendus : le membre est affiché; les modifications sont encodées; message d'erreur car les données sont incorrectes, retour aux modifications;",
 													"ownedViews": [
 														{
+															"_type": "UMLSwimlaneView",
+															"_id": "AAAAAAFunZFtgfTbCx0=",
+															"_parent": {
+																"$ref": "AAAAAAFunXQyzfBF8Hc="
+															},
+															"model": {
+																"$ref": "AAAAAAFunZFtgfTZ8ow="
+															},
+															"subViews": [
+																{
+																	"_type": "LabelView",
+																	"_id": "AAAAAAFunZFtgfTcf9c=",
+																	"_parent": {
+																		"$ref": "AAAAAAFunZFtgfTbCx0="
+																	},
+																	"font": "Arial;13;0",
+																	"left": 656,
+																	"top": 28,
+																	"width": 577,
+																	"height": 13,
+																	"text": "ActivityPartition1",
+																	"verticalAlignment": 3
+																}
+															],
+															"font": "Arial;13;0",
+															"left": 656,
+															"top": 24,
+															"width": 577,
+															"height": 817,
+															"nameLabel": {
+																"$ref": "AAAAAAFunZFtgfTcf9c="
+															}
+														},
+														{
 															"_type": "UMLActionView",
 															"_id": "AAAAAAFunXY5x/DBWFk=",
 															"_parent": {
@@ -16864,7 +16898,7 @@
 															},
 															"font": "Arial;13;0",
 															"containerChangeable": true,
-															"left": 960,
+															"left": 963,
 															"top": 728,
 															"width": 26,
 															"height": 26
@@ -16901,40 +16935,6 @@
 															"height": 817,
 															"nameLabel": {
 																"$ref": "AAAAAAFunZEqz/TQC1o="
-															}
-														},
-														{
-															"_type": "UMLSwimlaneView",
-															"_id": "AAAAAAFunZFtgfTbCx0=",
-															"_parent": {
-																"$ref": "AAAAAAFunXQyzfBF8Hc="
-															},
-															"model": {
-																"$ref": "AAAAAAFunZFtgfTZ8ow="
-															},
-															"subViews": [
-																{
-																	"_type": "LabelView",
-																	"_id": "AAAAAAFunZFtgfTcf9c=",
-																	"_parent": {
-																		"$ref": "AAAAAAFunZFtgfTbCx0="
-																	},
-																	"font": "Arial;13;0",
-																	"left": 656,
-																	"top": 28,
-																	"width": 577,
-																	"height": 13,
-																	"text": "ActivityPartition1",
-																	"verticalAlignment": 3
-																}
-															],
-															"font": "Arial;13;0",
-															"left": 656,
-															"top": 24,
-															"width": 577,
-															"height": 817,
-															"nameLabel": {
-																"$ref": "AAAAAAFunZFtgfTcf9c="
 															}
 														},
 														{
@@ -17867,7 +17867,7 @@
 																				"$ref": "AAAAAAFunZ0wwvd1vGU="
 																			},
 																			"font": "Arial;13;1",
-																			"left": 837,
+																			"left": 836,
 																			"top": 647,
 																			"width": 279.0556640625,
 																			"height": 13,
@@ -17902,7 +17902,7 @@
 																		}
 																	],
 																	"font": "Arial;13;0",
-																	"left": 832,
+																	"left": 831,
 																	"top": 640,
 																	"width": 289.0556640625,
 																	"height": 25,
@@ -17922,7 +17922,7 @@
 															],
 															"font": "Arial;13;0",
 															"containerChangeable": true,
-															"left": 832,
+															"left": 831,
 															"top": 640,
 															"width": 289.0556640625,
 															"height": 41,
@@ -18012,7 +18012,7 @@
 																"$ref": "AAAAAAFunXfjIPF512w="
 															},
 															"lineStyle": 1,
-															"points": "1072:561;1072:592;976:592;976:639",
+															"points": "1072:561;1072:592;976:592;975:639",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAFunZ166/ePhbQ="
@@ -18045,8 +18045,8 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 988,
-																	"top": 698,
+																	"left": 989,
+																	"top": 697,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 15,
@@ -18066,8 +18066,8 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 1003,
-																	"top": 699,
+																	"left": 1004,
+																	"top": 697,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -18087,8 +18087,8 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 959,
-																	"top": 697,
+																	"left": 960,
+																	"top": 698,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
 																	"distance": 15,
@@ -18106,7 +18106,7 @@
 																"$ref": "AAAAAAFunZ0wwvd0w5Q="
 															},
 															"lineStyle": 1,
-															"points": "975:681;973:727",
+															"points": "975:681;975:727",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAFunZ4soPes2h8="
@@ -34347,7 +34347,7 @@
 														"$ref": "AAAAAAFuq8xFxsyskIQ="
 													},
 													"name": "UC 403 - Diagramme d'activité",
-													"documentation": "# Tests élémentaires fonctionnels\n\n# Scénarios\n\n## Scénario 1\nSans erreur (1-2-3-4-5-6-7)\n\n1. Cas 1 : La tâche est est modifiée par un utilisateur en ayant le droit et que les champs sont valides.\n    - Résultats attendus : Un message apparaît pour dire à l'utilisateur que tout est Ok, la tâche a bien été modifiée.\n\n## Scénario 2\nSans erreur (1-2-3)  \n\n1. Cas 1 : L'utilisateur n'a pas le droit de modifier cette tâche actuellement.\n \t- Résultats attendus : Un message d'erreur est affiché et l'utilisateur revient à l'interface précédante.\n\n## Scénario 3\nAvec des données erronées (1-2-3-4-5-6-4-...)\n\n1. Cas 1 : Modification avec des données érronées.\n\t- Résultats attendus : Un message est affiché pour signaler à l'utilisateur les données érronnées. Toutes les valeurs sont conservées.\n    \n    \n## Valeurs correctes:\n\n- Tache : L'une des 5 étapes d'une Tache (voir énumération : statut) \n- Durée Jour-Homme : Nombre compris entre 1 et 999 999.\n     \n    \n    ",
+													"documentation": "# Tests élémentaires fonctionnels\n\n# Scénarios\n\n## Scénario 1\nSans erreur (1-2-3-4-5-6-7)\n\n1. Cas 1 : La tâche est est modifiée par un utilisateur en ayant le droit et que les champs sont valides.\n    - Résultats attendus : Un message apparaît pour dire à l'utilisateur que tout est Ok, la tâche a bien été modifiée.\n\n## Scénario 2\nSans erreur (1-2-3)  \n\n1. Cas 1 : L'utilisateur n'a pas le droit de modifier cette tâche actuellement.\n \t- Résultats attendus : Un message d'erreur est affiché et l'utilisateur revient à l'interface précédante.\n\n## Scénario 3\nAvec des données erronées (1-2-3-4-5-6-4-...)\n\n1. Cas 1 : Modification avec des données érronées.\n\t- Résultats attendus : Un message est affiché pour signaler à l'utilisateur les données érronnées. Toutes les valeurs sont conservées.\n    \n    \n## Valeurs correctes:\n\n- Tache : L'une des 5 étapes d'une Tache (voir énumération : statut) \n- Durée Jour-Homme : Nombre compris entre 1 et 20.\n     \n    \n    ",
 													"ownedViews": [
 														{
 															"_type": "UMLSwimlaneView",
