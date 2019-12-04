@@ -22,10 +22,17 @@ QUENTIN : 101 - 303 - 203
 
 c) DOCUMENTATION :
 
-A faire : avant mercredi.
+A Compléter, si possible avant Mercredi 12.
 
-d) A propos des tests des UC :
-LEOPOLD : 404 --> Si l'utilisateur n'est pas dans le bon sprint, il faudrait lui afficher un message d'erreur
+d) Rapport de Madame Ucvelier sur nos PTFE :
 
-NB : Prévenir de n'importe qu'elle façon les autres que vous êtes en train de modifier le KanBan. Pushez quand vous avez fini
-et précisez que le Kanban est disponible pour les autres !!!
+Ils sont en général torp court.
+
+Le nombre de scénaris, c'est en général = (le nombre de losanges + 1-.
+C'est ultra rare d'avoir Cas 1, car ça teste des valeurs précises et ne concerne qu'une seule éxécution.
+C'est mieux de marquer Cas 1.X.
+
+Mettre des listes de valeurs correctes qu'elles soient ReadOnly ou ReadAndWrite.
+
+Pour Léopold spécifiquement: Il faut que tu complètes tes Tests. Trop peu de scénaris en général surtout le 404.
+
