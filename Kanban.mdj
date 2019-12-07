@@ -11883,7 +11883,7 @@
 													"font": "Arial;13;0",
 													"left": 579,
 													"top": 380.5,
-													"width": 128,
+													"width": 129.18359375,
 													"height": 25,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAFueIDrEbIwWO8="
@@ -12079,7 +12079,7 @@
 													"font": "Arial;13;0",
 													"left": 590,
 													"top": 476.5,
-													"width": 143,
+													"width": 143.6435546875,
 													"height": 25,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAFueIJvQbLBchA="
@@ -12811,7 +12811,7 @@
 													"font": "Arial;13;0",
 													"left": 583,
 													"top": 284.5,
-													"width": 147,
+													"width": 147.9853515625,
 													"height": 25,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAFujOgiuaILnAU="
@@ -52473,7 +52473,7 @@
 													"subViews": [
 														{
 															"_type": "UMLInteractionOperandView",
-															"_id": "AAAAAAFu357DO90+axE=",
+															"_id": "AAAAAAFu38NHhAaoLWU=",
 															"_parent": {
 																"$ref": "AAAAAAFu357DGt0yfFI="
 															},
@@ -52483,9 +52483,9 @@
 															"subViews": [
 																{
 																	"_type": "LabelView",
-																	"_id": "AAAAAAFu357DO90/sgw=",
+																	"_id": "AAAAAAFu38NHhAapXL4=",
 																	"_parent": {
-																		"$ref": "AAAAAAFu357DO90+axE="
+																		"$ref": "AAAAAAFu38NHhAaoLWU="
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
@@ -52500,7 +52500,7 @@
 															"width": 1105,
 															"height": 43,
 															"guardLabel": {
-																"$ref": "AAAAAAFu357DO90/sgw="
+																"$ref": "AAAAAAFu38NHhAapXL4="
 															}
 														}
 													],
@@ -54814,7 +54814,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFu32k/ldfDlwQ="
 									},
-									"name": "Endpoint1"
+									"name": "Début"
 								},
 								{
 									"_type": "UMLLifeline",
@@ -54834,7 +54834,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFu32k/ldfDlwQ="
 									},
-									"name": "Endpoint2"
+									"name": "Fin"
 								}
 							],
 							"fragments": [
