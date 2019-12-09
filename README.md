@@ -41,7 +41,7 @@ et utile au développeur.
 CHOIX DES DIAGS DE SEQUENCE (il faut choisir un Diag d'activité) :
 
 GUILLAUME : 302 (Créer un UseCase)
-LEOPOLD : ???
+LEOPOLD : 404 (Créer une tâche)
 QUENTIN : ???
 
 f ) NOTE GENERALE AVANT LA REMISE ET LA DEFENSE: Vérifier Documentation avant la remise + noter hypothèses dans un readme ? (à vérifier dans les gabarits de documentation).
