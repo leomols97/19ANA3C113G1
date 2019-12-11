@@ -34393,8 +34393,8 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 381,
-																	"top": 657,
+																	"left": 378,
+																	"top": 656,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 15,
@@ -34414,8 +34414,8 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 396,
-																	"top": 657,
+																	"left": 393,
+																	"top": 654,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -34435,8 +34435,8 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 352,
-																	"top": 658,
+																	"left": 349,
+																	"top": 659,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
 																	"distance": 15,
@@ -56244,7 +56244,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFu30o4ydFlnEo="
 					},
-					"name": "UCR1 créerUS",
+					"name": "UCR302 créerUS",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
@@ -58809,7 +58809,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFu30o4ydFlnEo="
 					},
-					"name": "UCR2 créerTache",
+					"name": "UCR404 créerTache",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
@@ -61553,6 +61553,17 @@
 							"type": {
 								"$ref": "AAAAAAFu30jjjco51cw="
 							}
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAFu8+gmbXPTrMI=",
+							"_parent": {
+								"$ref": "AAAAAAFu6CIKJfZRmsA="
+							},
+							"name": "Role6",
+							"type": {
+								"$ref": "AAAAAAFu6j1dC2da7Zk="
+							}
 						}
 					]
 				},
@@ -61562,7 +61573,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFu30o4ydFlnEo="
 					},
-					"name": "UCR3 modifierTache",
+					"name": "UCR403 modifierTache",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
@@ -61670,7 +61681,7 @@
 															"top": 47,
 															"width": 130.62451171875,
 															"height": 13,
-															"text": "Lifeline1"
+															"text": "Vue: UI - UCR4"
 														},
 														{
 															"_type": "LabelView",
@@ -61784,9 +61795,9 @@
 															"font": "Arial;13;1",
 															"left": 325,
 															"top": 47,
-															"width": 179.736328125,
+															"width": 193.44091796875,
 															"height": 13,
-															"text": "Lifeline2"
+															"text": "Controleur: Controller - UCR4"
 														},
 														{
 															"_type": "LabelView",
@@ -61817,7 +61828,7 @@
 													"font": "Arial;13;0",
 													"left": 320,
 													"top": 40,
-													"width": 189.736328125,
+													"width": 203.44091796875,
 													"height": 40,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAFu8wLMzXhQQ+I="
@@ -61842,7 +61853,7 @@
 														"$ref": "AAAAAAFu8wLMzni3wyU="
 													},
 													"font": "Arial;13;0",
-													"left": 415,
+													"left": 422,
 													"top": 80,
 													"width": 1,
 													"height": 433
@@ -61851,7 +61862,7 @@
 											"font": "Arial;13;0",
 											"left": 320,
 											"top": 40,
-											"width": 189.736328125,
+											"width": 203.44091796875,
 											"height": 473,
 											"nameCompartment": {
 												"$ref": "AAAAAAFu8wLMzXhP/js="
@@ -61901,7 +61912,7 @@
 															"top": 47,
 															"width": 162.42626953125,
 															"height": 13,
-															"text": "Lifeline3"
+															"text": "Facade: Facade - UCR4"
 														},
 														{
 															"_type": "LabelView",
@@ -62014,7 +62025,7 @@
 															"top": 47,
 															"width": 107.2841796875,
 															"height": 13,
-															"text": "Lifeline4"
+															"text": "Tache: Tache"
 														},
 														{
 															"_type": "LabelView",
@@ -62232,7 +62243,7 @@
 														"$ref": "AAAAAAFu8wLMzniskLw="
 													},
 													"font": "Arial;13;0",
-													"left": 260,
+													"left": 263,
 													"top": 120,
 													"width": 101.8671875,
 													"height": 13,
@@ -62255,7 +62266,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 310,
+													"left": 313,
 													"top": 105,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -62276,7 +62287,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 310,
+													"left": 313,
 													"top": 140,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -62296,7 +62307,7 @@
 														"$ref": "AAAAAAFu8wLMzniskLw="
 													},
 													"font": "Arial;13;0",
-													"left": 408,
+													"left": 415,
 													"top": 136,
 													"width": 14,
 													"height": 289
@@ -62309,7 +62320,7 @@
 											"tail": {
 												"$ref": "AAAAAAFu8wLMzXhNQGo="
 											},
-											"points": "212:136;408:136",
+											"points": "212:136;415:136",
 											"nameLabel": {
 												"$ref": "AAAAAAFu8wLMzXhq+KM="
 											},
@@ -62343,7 +62354,7 @@
 														"$ref": "AAAAAAFu8wLMznitBc0="
 													},
 													"font": "Arial;13;0",
-													"left": 455,
+													"left": 462,
 													"top": 184,
 													"width": 131.47900390625,
 													"height": 13,
@@ -62366,7 +62377,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 475,
+													"left": 482,
 													"top": 179,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -62387,7 +62398,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 441,
+													"left": 448,
 													"top": 180,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -62407,7 +62418,7 @@
 														"$ref": "AAAAAAFu8wLMznitBc0="
 													},
 													"font": "Arial;13;0",
-													"left": 415,
+													"left": 422,
 													"top": 196,
 													"width": 14,
 													"height": 29
@@ -62420,7 +62431,7 @@
 											"tail": {
 												"$ref": "AAAAAAFu8wLMzXhUk08="
 											},
-											"points": "421:176;451:176;451:196;428:196",
+											"points": "428:176;458:176;458:196;435:196",
 											"nameLabel": {
 												"$ref": "AAAAAAFu8wLMznhvwCc="
 											},
@@ -62469,7 +62480,7 @@
 														"$ref": "AAAAAAFu8wLMzniuxo0="
 													},
 													"font": "Arial;13;0",
-													"left": 486,
+													"left": 490,
 													"top": 240,
 													"width": 107.64990234375,
 													"height": 13,
@@ -62492,7 +62503,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 539,
+													"left": 543,
 													"top": 225,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -62513,7 +62524,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 539,
+													"left": 543,
 													"top": 260,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -62546,7 +62557,7 @@
 											"tail": {
 												"$ref": "AAAAAAFu8wLMzXhUk08="
 											},
-											"points": "421:256;658:256",
+											"points": "428:256;658:256",
 											"nameLabel": {
 												"$ref": "AAAAAAFu8wLMznh1wrA="
 											},
@@ -62691,7 +62702,7 @@
 														"$ref": "AAAAAAFu8wLMzniwZb0="
 													},
 													"font": "Arial;13;0",
-													"left": 242,
+													"left": 245,
 													"top": 300,
 													"width": 134.1259765625,
 													"height": 13,
@@ -62714,7 +62725,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 309,
+													"left": 312,
 													"top": 315,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -62735,7 +62746,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 310,
+													"left": 313,
 													"top": 280,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -62768,7 +62779,7 @@
 											"tail": {
 												"$ref": "AAAAAAFu8wLMzXhUk08="
 											},
-											"points": "408:296;212:296",
+											"points": "415:296;212:296",
 											"nameLabel": {
 												"$ref": "AAAAAAFu8wLMznh/qlQ="
 											},
@@ -63260,7 +63271,7 @@
 														"$ref": "AAAAAAFu8wLMznizkh4="
 													},
 													"font": "Arial;13;0",
-													"left": 481,
+													"left": 485,
 													"top": 409,
 													"width": 115.3876953125,
 													"height": 13,
@@ -63283,7 +63294,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 538,
+													"left": 542,
 													"top": 424,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -63304,7 +63315,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 539,
+													"left": 543,
 													"top": 389,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -63325,7 +63336,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 408,
+													"left": 415,
 													"top": 405,
 													"width": 14,
 													"height": 25
@@ -63338,7 +63349,7 @@
 											"tail": {
 												"$ref": "AAAAAAFu8wLMzXhbb+w="
 											},
-											"points": "658:405;421:405",
+											"points": "658:405;428:405",
 											"nameLabel": {
 												"$ref": "AAAAAAFu8wLMznicxGs="
 											},
@@ -63372,7 +63383,7 @@
 														"$ref": "AAAAAAFu8wLMzni0ejo="
 													},
 													"font": "Arial;13;0",
-													"left": 220,
+													"left": 223,
 													"top": 421,
 													"width": 179.18798828125,
 													"height": 13,
@@ -63395,7 +63406,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 309,
+													"left": 312,
 													"top": 436,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -63416,7 +63427,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 310,
+													"left": 313,
 													"top": 401,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -63449,7 +63460,7 @@
 											"tail": {
 												"$ref": "AAAAAAFu8wLMzXhUk08="
 											},
-											"points": "408:417;212:417",
+											"points": "415:417;212:417",
 											"nameLabel": {
 												"$ref": "AAAAAAFu8wLMznihuIU="
 											},
@@ -63758,7 +63769,10 @@
 									"_parent": {
 										"$ref": "AAAAAAFu8wLMzXhC1Kw="
 									},
-									"name": "Lifeline1",
+									"name": "Vue",
+									"represent": {
+										"$ref": "AAAAAAFu8wpJSOuSYns="
+									},
 									"isMultiInstance": false
 								},
 								{
@@ -63767,7 +63781,10 @@
 									"_parent": {
 										"$ref": "AAAAAAFu8wLMzXhC1Kw="
 									},
-									"name": "Lifeline2",
+									"name": "Controleur",
+									"represent": {
+										"$ref": "AAAAAAFu8wpJSOuT92U="
+									},
 									"isMultiInstance": false
 								},
 								{
@@ -63776,7 +63793,10 @@
 									"_parent": {
 										"$ref": "AAAAAAFu8wLMzXhC1Kw="
 									},
-									"name": "Lifeline3",
+									"name": "Facade",
+									"represent": {
+										"$ref": "AAAAAAFu8wpJSOuU8cc="
+									},
 									"isMultiInstance": false
 								},
 								{
@@ -63785,7 +63805,10 @@
 									"_parent": {
 										"$ref": "AAAAAAFu8wLMzXhC1Kw="
 									},
-									"name": "Lifeline4",
+									"name": "Tache",
+									"represent": {
+										"$ref": "AAAAAAFu8wpJSeuVvbw="
+									},
 									"isMultiInstance": false
 								},
 								{
