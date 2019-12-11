@@ -13,15 +13,15 @@ DECOUPE DE LA PRESENTATION ; DIFFENRENTES PARTIES :
 
 MCD :
 	Diagrammes de Package (Facile):
-	Equipiers (Difficile):
+	Equipiers (Difficile): Guillaume
 	Travaux (Difficile): Léo
 MCT :
 	Diagramme de sous-système (Facile): Léo
-	Contrôle d'accès (Facile):
+	Contrôle d'accès (Facile): Guillaume
 	Contrôle des Utilisateurs (Moyen):
 	Gestion des US(Moyen): Léo
 	Gestion des Sprint & Tâches (Difficile):
-	Gestion des notifs (Moyen):
+	Gestion des notifs (Moyen): Guillaume
 
 Activitées : Chaucn explique le sien (Celui qu'il préfère ? si seulement 1 à expliquer) :
 Tests : La personne qui a fait les tests + la personne qui a fait le diagramme d'activité.
