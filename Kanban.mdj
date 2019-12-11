@@ -58809,7 +58809,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFu30o4ydFlnEo="
 					},
-					"name": "UCR2 modifierTache",
+					"name": "UCR2 créerTache",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
@@ -61562,7 +61562,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFu30o4ydFlnEo="
 					},
-					"name": "UCR2 modifierTache",
+					"name": "UCR3 modifierTache",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
