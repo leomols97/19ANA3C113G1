@@ -2,7 +2,7 @@ Ajouter les Versions (Fait)
 HYPOTHESES (à noter dans la racine):
 
 Choix d'implémentation :
-	 1. Préférez vous que ce soit les membres qui aient une liste de tâches assignées ou le stâches qui otn des membres assignés ? Les deux sont possibles.
+	 1. Préférez vous que ce soit les membres qui aient une liste de tâches assignées ou le stâches qui ont des membres assignés ? Les deux sont possibles.
 		NB GUILLAUME : j'ai mis la première solution dans le MTD !
 
 
@@ -12,15 +12,15 @@ DECOUPE DE LA PRESENTATION ; DIFFENRENTES PARTIES :
 9 Choses à répartir
 
 MCD :
-	Diagrammes de Package (Facile):
+	Diagrammes de Package (Facile): Quentin
 	Equipiers (Difficile): Guillaume
 	Travaux (Difficile): Léo
 MCT :
 	Diagramme de sous-système (Facile): Léo
 	Contrôle d'accès (Facile): Guillaume
-	Contrôle des Utilisateurs (Moyen):
+	Contrôle des Utilisateurs (Moyen): Quentin
 	Gestion des US(Moyen): Léo
-	Gestion des Sprint & Tâches (Difficile):
+	Gestion des Sprint & Tâches (Difficile): Quentin
 	Gestion des notifs (Moyen): Guillaume
 
 Activitées : Chaucn explique le sien (Celui qu'il préfère ? si seulement 1 à expliquer) :
