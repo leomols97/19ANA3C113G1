@@ -42,7 +42,7 @@ CHOIX DES DIAGS DE SEQUENCE (il faut choisir un Diag d'activité) :
 
 GUILLAUME : 302 (Créer un UseCase)
 LEOPOLD : 404 (Créer une tâche)
-QUENTIN : ???
+QUENTIN : 403 (Modifier une tâche)
 
 f ) NOTE GENERALE AVANT LA REMISE ET LA DEFENSE: Vérifier Documentation avant la remise + noter hypothèses dans un readme ? (à vérifier dans les gabarits de documentation).
 Tester en général si on peut justifier tout nos choix : particulièrement le MCD/MCT.
