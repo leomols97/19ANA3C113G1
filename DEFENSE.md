@@ -14,12 +14,12 @@ DECOUPE DE LA PRESENTATION ; DIFFENRENTES PARTIES :
 MCD :
 	Diagrammes de Package (Facile):
 	Equipiers (Difficile):
-	Travaux (Difficile):
+	Travaux (Difficile): Léo
 MCT :
-	Diagramme de sous-système (Facile):
+	Diagramme de sous-système (Facile): Léo
 	Contrôle d'accès (Facile):
 	Contrôle des Utilisateurs (Moyen):
-	Gestion des US(Moyen):
+	Gestion des US(Moyen): Léo
 	Gestion des Sprint & Tâches (Difficile):
 	Gestion des notifs (Moyen):
 
