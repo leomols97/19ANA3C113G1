@@ -1,4 +1,4 @@
-MODIFIE LE FICHIER EN CE MOMENT : Quentin - hésitez pas à changer le projet, je regarderai avant de push et je merge si il y a eu d'autres commit.
+MODIFIE LE FICHIER EN CE MOMENT : LEOPOLD
 
 a) Convention des noms des fichiers:
 	"nom de la partie"-description
