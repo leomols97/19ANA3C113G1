@@ -11,8 +11,8 @@ b) SEMAINE 3 TESTS DES DIAGRAMMES d'ACTIVITE :
 Listes des digrammes d'activité qui ont été faits :
 
 GUILLAUME : 203 - 302 - 303
-LEOPOLD : 101 - 403 
-QUENTIN : 401 - 404
+LEOPOLD : 101 - 404
+QUENTIN : 401 - 403
 
 Assignation des tests diagrammes d'activité :
 
@@ -28,7 +28,7 @@ d) Rapport de Madame Cuvelier sur nos PTFE :
 
 Ils sont en général trop court.
 
-Le nombre de scénaris, c'est en général = (le nombre de losanges + 1).
+Le nombre de scénarios, c'est en général = (le nombre de losanges + 1).
 C'est ultra rare d'avoir Cas 1, car ça teste des valeurs précises et ne concerne qu'une seule éxécution.
 C'est mieux de marquer Cas 1.X , Cas 2.X etc...
 
